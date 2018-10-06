@@ -1,0 +1,124 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.6 (DAY1)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.4" />
+      <homePath value="E:\PycharmProjects\DAY1\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Anaconda3/DLLs" type="simple" />
+            <root url="file://C:/Anaconda3/Lib" type="simple" />
+            <root url="file://C:/Anaconda3" type="simple" />
+            <root url="file://E:/PycharmProjects/DAY1/venv" type="simple" />
+            <root url="file://E:/PycharmProjects/DAY1/venv/Lib/site-packages" type="simple" />
+            <root url="jar://E:/PycharmProjects/DAY1/venv/Lib/site-packages/setuptools-39.1.0-py3.6.egg!/" type="simple" />
+            <root url="file://E:/PycharmProjects/DAY1/venv/Lib/site-packages/pip-10.0.1-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-354818042" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="E:/PycharmProjects/DAY1" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.4" />
+      <homePath value="C:\Anaconda3\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Anaconda3/DLLs" type="simple" />
+            <root url="file://C:/Anaconda3/Lib" type="simple" />
+            <root url="file://C:/Anaconda3" type="simple" />
+            <root url="file://C:/Anaconda3/Lib/site-packages" type="simple" />
+            <root url="file://C:/Anaconda3/Lib/site-packages/win32" type="simple" />
+            <root url="file://C:/Anaconda3/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://C:/Anaconda3/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/1013586911" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (DAY2)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.4" />
+      <homePath value="E:\PycharmProjects\DAY2\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Anaconda3/DLLs" type="simple" />
+            <root url="file://C:/Anaconda3/Lib" type="simple" />
+            <root url="file://C:/Anaconda3" type="simple" />
+            <root url="file://E:/PycharmProjects/DAY2/venv" type="simple" />
+            <root url="file://E:/PycharmProjects/DAY2/venv/Lib/site-packages" type="simple" />
+            <root url="jar://E:/PycharmProjects/DAY2/venv/Lib/site-packages/setuptools-39.1.0-py3.6.egg!/" type="simple" />
+            <root url="file://E:/PycharmProjects/DAY2/venv/Lib/site-packages/pip-10.0.1-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/1862939911" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="E:/PycharmProjects/DAY2" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (MOOC)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.4" />
+      <homePath value="E:\PycharmProjects\MOOC\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Anaconda3/DLLs" type="simple" />
+            <root url="file://C:/Anaconda3/Lib" type="simple" />
+            <root url="file://C:/Anaconda3" type="simple" />
+            <root url="file://E:/PycharmProjects/MOOC/venv" type="simple" />
+            <root url="file://E:/PycharmProjects/MOOC/venv/Lib/site-packages" type="simple" />
+            <root url="jar://E:/PycharmProjects/MOOC/venv/Lib/site-packages/setuptools-39.1.0-py3.6.egg!/" type="simple" />
+            <root url="file://E:/PycharmProjects/MOOC/venv/Lib/site-packages/pip-10.0.1-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-1115013177" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="E:/PycharmProjects/MOOC" />
+    </jdk>
+  </component>
+</application>
